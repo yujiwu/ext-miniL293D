@@ -7,9 +7,9 @@
 * pin VIN and GND on the opposite side of mini-L293D board accept 4.5V-36V
 
 # Block Description
-Use the first block to initialize the module
-Use the second block to setup the dircetion and speed of the motors
-Use the third block to stop the one of two motors
+* Use the first block to initialize the module
+* Use the second block to setup the dircetion and speed of the motors
+* Use the third block to stop the one of two motors
 
 # Release Logs
 * V0.0.1  Basic functions completed.
