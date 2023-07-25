@@ -1,0 +1,25 @@
+{
+	"name": {
+		"zh-cn": "mini-L293D电机驱动模块",
+		"en": "mini-L293D motor driver module"
+	},
+	"description": {
+		"zh-cn": "模块最多可以驱动2台电机，并可实现pwm调速，作者: UG",
+		"en": "mini-L293D module are able to drive at most 2 electric motor, written by UG"
+	},
+	"author": "UG",
+	"email": "cswuyujieapp@126.com",
+	"license": "MIT",
+	"isBoard": false,
+	"id": "miniL293D",
+	"platform": ["win", "mac", "web"],
+	"version": "0.0.1",
+	"asset": {
+		"arduinoC": {
+			"dir": "arduinoC/",
+			"version": "0.0.1",
+			"board": ["arduino", "arduinonano"],
+			"main": "main.ts"
+		}
+	}
+}

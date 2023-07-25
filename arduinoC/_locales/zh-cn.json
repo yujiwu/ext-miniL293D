@@ -1,0 +1,7 @@
+{
+    "miniL293D.initModule|block": "初始化mini-L293D模块",
+    "miniL293D.setMotor|block": "设置电机[M]方向[DIR]速度[S]",
+    "miniL293D.stopMotor|block": "停止电机[M]",
+    "miniL293D.directions.Forward|menu": "前进",
+    "miniL293D.directions.Backward|menu": "后退"
+}
